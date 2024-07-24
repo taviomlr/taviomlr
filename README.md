@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre Mim:
 Estou trabalhando atualmente no Grupo IOB como desenvolvedor de software atuando em projetos de sistemas ERP, PDV e Libs utilizando Delphi,  C# e VB6. Atuo na manutenção, nas melhorias e na criação de novas features.<br><br>Também tenho desenvolvido projetos em .NET C# como uma biblioteca de classes que faz a consulta de CNPJ utilizando três APIs públicas utilizando a técnica de fallback e uma aplicação desktop utilizando o windows form que faz a migração de dados entre aplicações distintas.<br><br>Atualmente estou estudando o Ecossistema do .NET C# tecnologia que escolhi me especializar mas tenho esperiência em outras tecnologias como:<br><br>- Desenvolvimento Web: HTML, CSS, Bootstrap, JavaScript, PHP;<br>- Desenvolvimento no code: Bubble e Maker;<br>- Desenvolvimento low code: Outsystem.
 
 
-## 🌐 Socials:
+## 🌐 Contato:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/taviorodrigues) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/taviorodrigues/) 
 
 # 💻 Tech Stack:
